@@ -1,0 +1,64 @@
+{ 
+"products": [ 
+    {
+        "id": 1,
+        "name": "Manzana",
+        "price": 300 ,
+        "image": "http://placeimg.com/640/480/tech"
+    },
+    {
+        "id": 2,
+        "name": "Peras",
+        "price":  500,
+        "image": "http://placeimg.com/640/480/tech"
+    },
+    {
+        "id": 3,
+        "name": "Paltas",
+        "price":  4500,
+        "image": "http://placeimg.com/640/480/tech"
+    },
+    {
+        "id": 4,
+        "name": "Platanos",
+        "price":  1000,
+        "image": "http://placeimg.com/640/480/tech"
+    },
+    {
+        "id": 5,
+        "name": "Naranjas",
+        "price":  1500,
+        "image": "http://placeimg.com/640/480/tech"
+    },
+    {
+        "id": 6,
+        "name": "Mandarinas",
+        "price":  1250,
+        "image": "http://placeimg.com/640/480/tech"
+    },
+    {
+        "id": 7,
+        "name": "Duraznos",
+        "price":  3500,
+        "image": "http://placeimg.com/640/480/tech"
+    },
+    {
+        "id": 8,
+        "name": "Tomates",
+        "price":  900,
+        "image": "http://placeimg.com/640/480/tech"
+    },
+    {
+        "id": 9,
+        "name": "Lechugas",
+        "price":  1500,
+        "image": "http://placeimg.com/640/480/tech"
+    },
+    {
+        "id": 10,
+        "name": "Brocoli",
+        "price": 1800,
+        "image": "http://placeimg.com/640/480/tech"
+    }
+    ]
+}
