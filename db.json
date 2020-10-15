@@ -60,5 +60,98 @@
         "price": 1800,
         "image": "http://placeimg.com/640/480/tech"
     }
+    ],
+    
+    "details": [
+        {
+            "id": 1,
+            "name": "Manzana",
+            "price": 300 ,
+            "image": "http://placeimg.com/640/480/tech",
+            "description": "loremOfficia laboris veniam veniam labore sunt excepteur et aliqua ullamco.", 
+            "lastPrice" : 250,
+            "credit": true
+        },
+        {
+            "id": 2,
+            "name": "Peras",
+            "price":  500,
+            "image": "http://placeimg.com/640/480/tech",
+            "description": "Sit ex elit tempor veniam eu sit proident pariatur voluptate irure nostrud aliquip aliqua.", 
+            "lastPrice" : 250,
+            "credit": true
+        },
+        {
+            "id": 3,
+            "name": "Paltas",
+            "price":  4500,
+            "image": "http://placeimg.com/640/480/tech",
+            "description": "Nisi dolor exercitation laboris do cillum irure irure elit pariatur voluptate.", 
+            "lastPrice" : 250,
+            "credit": true
+        },
+        {
+            "id": 4,
+            "name": "Platanos",
+            "price":  1000,
+            "image": "http://placeimg.com/640/480/tech",
+            "description": "Cupidatat dolor culpa pariatur labore fugiat voluptate magna dolor aute ex ullamco irure ea laborum.", 
+            "lastPrice" : 250,
+            "credit": true
+        },
+        {
+            "id": 5,
+            "name": "Naranjas",
+            "price":  1500,
+            "image": "http://placeimg.com/640/480/tech",
+            "description": "Quis ullamco ipsum consequat id sit ipsum ad minim.", 
+            "lastPrice" : 250,
+            "credit": true
+        },
+        {
+            "id": 6,
+            "name": "Mandarinas",
+            "price":  1250,
+            "image": "http://placeimg.com/640/480/tech",
+            "description": "Enim sint aute laboris commodo.", 
+            "lastPrice" : 250,
+            "credit": true
+        },
+        {
+            "id": 7,
+            "name": "Duraznos",
+            "price":  3500,
+            "image": "http://placeimg.com/640/480/tech",
+            "description": "Esse quis laboris et incididunt sint cillum.", 
+            "lastPrice" : 250,
+            "credit": true
+        },
+        {
+            "id": 8,
+            "name": "Tomates",
+            "price":  900,
+            "image": "http://placeimg.com/640/480/tech",
+            "description": "Incididunt in ex magna tempor duis.", 
+            "lastPrice" : 250,
+            "credit": true
+        },
+        {
+            "id": 9,
+            "name": "Lechugas",
+            "price":  1500,
+            "image": "http://placeimg.com/640/480/tech",
+            "description": "Occaecat quis ut amet sit ut est ut id ipsum.", 
+            "lastPrice" : 250,
+            "credit": true
+        },
+        {
+            "id": 10,
+            "name": "Brocoli",
+            "price": 1800,
+            "image": "http://placeimg.com/640/480/tech",
+            "description": "Magna aute tempor minim velit fugiat enim irure et magna do magna.", 
+            "lastPrice" : 250,
+            "credit": true
+        }
     ]
 }
