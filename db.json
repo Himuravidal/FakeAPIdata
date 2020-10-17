@@ -2,155 +2,155 @@
 "products": [ 
     {
         "id": 1,
-        "name": "Manzana",
-        "price": 300 ,
-        "image": "http://placeimg.com/640/480/tech"
+        "name": "Samsung Galaxy A21s 64GB",
+        "price": 167253 ,
+        "image": "https://images.samsung.com/is/image/samsung/es-galaxy-a21s-sm-a217fzkoeub-262755098?$PD_GALLERY_L_JPG$"
     },
     {
         "id": 2,
-        "name": "Peras",
-        "price":  500,
-        "image": "http://placeimg.com/640/480/tech"
+        "name": "Huawei Nova 7 SE 128GB",
+        "price":  347760,
+        "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/nova7-se/img/mob/huawei-nova7-se-mob.png"
     },
     {
         "id": 3,
-        "name": "Paltas",
-        "price":  4500,
-        "image": "http://placeimg.com/640/480/tech"
+        "name": "Apple iPhone 7 32GB",
+        "price":  323760,
+        "image": "https://daisycon.io/images/mobile-device/?width=250&height=250&color=ffffff&mobile_device_brand=apple&mobile_device_model=iphone+7+32gb&mobile_device_color=silver"
     },
     {
         "id": 4,
-        "name": "Platanos",
-        "price":  1000,
-        "image": "http://placeimg.com/640/480/tech"
+        "name": "Galaxy Note 20 256GB",
+        "price":  767760,
+        "image": "https://daisycon.io/images/mobile-device/?width=250&height=250&color=ffffff&mobile_device_brand=samsung&mobile_device_model=Galaxy+note+20+256gb&mobile_device_color=silver"
     },
     {
         "id": 5,
-        "name": "Naranjas",
-        "price":  1500,
-        "image": "http://placeimg.com/640/480/tech"
+        "name": "Xiaomi Redmi 9 64GB",
+        "price":  167760,
+        "image": "https://mistorechile.cl/wp-content/uploads/2020/06/1366_2000-17254efe-c6bd-47fe-8c4f-bca464358abc.jpg"
     },
     {
         "id": 6,
-        "name": "Mandarinas",
-        "price":  1250,
-        "image": "http://placeimg.com/640/480/tech"
+        "name": "Motorola Moto E6S 32GB",
+        "price":  131760,
+        "image": "https://blogmotorola.com/app/uploads/2020/03/E6s.jpg"
     },
     {
         "id": 7,
-        "name": "Duraznos",
-        "price":  3500,
-        "image": "http://placeimg.com/640/480/tech"
+        "name": "Samsung Galaxy S10 128GB",
+        "price":  623760,
+        "image": "https://daisycon.io/images/mobile-device/?width=250&height=250&color=ffffff&mobile_device_brand=samsung&mobile_device_model=Galaxy+s10+128gb&mobile_device_color=silver"
     },
     {
         "id": 8,
-        "name": "Tomates",
-        "price":  900,
-        "image": "http://placeimg.com/640/480/tech"
+        "name": "Nokia 2.3 32GB",
+        "price":  95760,
+        "image": "https://images.ctfassets.net/wcfotm6rrl7u/7BhaseqEIFMGpIi3jVzA6P/e9b5ed6e0896f9883ca0190e4a8ab697/1-default-Nokia_2_3-sand.png"
     },
     {
         "id": 9,
-        "name": "Lechugas",
-        "price":  1500,
-        "image": "http://placeimg.com/640/480/tech"
+        "name": "Nokia 6.2 64GB",
+        "price":  179760,
+        "image": "https://images.ctfassets.net/wcfotm6rrl7u/63Z5h0GE5CFwHTn09dqJYY/261a87f838aeaef89a9749f5e0b9ab51/nokia_6_2-PUREDISPLAY_1-desktop.png"
     },
     {
         "id": 10,
-        "name": "Brocoli",
-        "price": 1800,
-        "image": "http://placeimg.com/640/480/tech"
+        "name": "LG Q6 32GB",
+        "price": 107760,
+        "image": "https://www.lg.com/us/images/cell-phones/md05902196/gallery/medium05.jpg"
     }
     ],
     
     "details": [
         {
             "id": 1,
-            "name": "Manzana",
-            "price": 300 ,
-            "image": "http://placeimg.com/640/480/tech",
-            "description": "loremOfficia laboris veniam veniam labore sunt excepteur et aliqua ullamco.", 
-            "lastPrice" : 250,
+            "name": "Samsung Galaxy A21s 64GB",
+            "price": 167253 ,
+            "image": "https://images.samsung.com/is/image/samsung/es-galaxy-a21s-sm-a217fzkoeub-262755098?$PD_GALLERY_L_JPG$",
+            "description": "Tamaño 6,5''\n Densidad 294 ppi\nResolución de pantalla 720 x 1600", 
+            "lastPrice" : 177253,
             "credit": true
         },
         {
             "id": 2,
-            "name": "Peras",
-            "price":  500,
-            "image": "http://placeimg.com/640/480/tech",
-            "description": "Sit ex elit tempor veniam eu sit proident pariatur voluptate irure nostrud aliquip aliqua.", 
-            "lastPrice" : 250,
+            "name": "Huawei Nova 7 SE 128GB",
+            "price":  347760,
+            "image": "https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/nova7-se/img/pc/huawei-nova7-se-side-mounted-fingerprint-unlock-space-silver.png",
+            "description": "Tamaño 6,5''\nDensidad 405 ppi\nResolución de pantalla 1080 x 2400 pixeles", 
+            "lastPrice" : 347960,
             "credit": true
         },
         {
             "id": 3,
-            "name": "Paltas",
-            "price":  4500,
-            "image": "http://placeimg.com/640/480/tech",
-            "description": "Nisi dolor exercitation laboris do cillum irure irure elit pariatur voluptate.", 
-            "lastPrice" : 250,
+            "name": "Apple iPhone 7 32GB",
+            "price":  323760,
+            "image": "https://daisycon.io/images/mobile-device/?width=250&height=250&color=ffffff&mobile_device_brand=apple&mobile_device_model=iphone+7+32gb&mobile_device_color=silver",
+            "description": "Tamaño 4,7''\nDensidad 326 ppi\nResolución de pantalla 1334 x 750 pixeles", 
+            "lastPrice" : 393760,
             "credit": true
         },
         {
             "id": 4,
-            "name": "Platanos",
-            "price":  1000,
-            "image": "http://placeimg.com/640/480/tech",
-            "description": "Cupidatat dolor culpa pariatur labore fugiat voluptate magna dolor aute ex ullamco irure ea laborum.", 
-            "lastPrice" : 250,
+            "name": "Galaxy Note 20 256GB",
+            "price":  767760,
+            "image": "https://daisycon.io/images/mobile-device/?width=250&height=250&color=ffffff&mobile_device_brand=samsung&mobile_device_model=Galaxy+note+20+256gb&mobile_device_color=silver",
+            "description": "Tamaño 6,7''\nDensidad 393 ppi\nResolución de pantalla 1080 x 2400 pixeles", 
+            "lastPrice" : 769760,
             "credit": true
         },
         {
             "id": 5,
-            "name": "Naranjas",
-            "price":  1500,
-            "image": "http://placeimg.com/640/480/tech",
-            "description": "Quis ullamco ipsum consequat id sit ipsum ad minim.", 
-            "lastPrice" : 250,
+            "name": "Xiaomi Redmi 9 64GB",
+            "price":  167760,
+            "image": "https://mistorechile.cl/wp-content/uploads/2020/06/1366_2000-17254efe-c6bd-47fe-8c4f-bca464358abc.jpg",
+            "description": "Tamaño 6.53 ''\nDensidad 395 ppi\nResolución de pantalla 1080 x 2340 pixeles", 
+            "lastPrice" : 173760,
             "credit": true
         },
         {
             "id": 6,
-            "name": "Mandarinas",
-            "price":  1250,
-            "image": "http://placeimg.com/640/480/tech",
-            "description": "Enim sint aute laboris commodo.", 
+            "name": "Motorola Moto E6S 32GB",
+            "price":  107760,
+            "image": "https://blogmotorola.com/app/uploads/2020/03/E6s.jpg",
+            "description": "Tamaño 6,1''\nDensidad 282 ppi\nResolución de pantalla 720 x 1560 pixeles", 
             "lastPrice" : 250,
             "credit": true
         },
         {
             "id": 7,
-            "name": "Duraznos",
-            "price":  3500,
-            "image": "http://placeimg.com/640/480/tech",
-            "description": "Esse quis laboris et incididunt sint cillum.", 
-            "lastPrice" : 250,
+            "name": "Samsung Galaxy S10 128GB",
+            "price":  623760,
+            "image": "https://daisycon.io/images/mobile-device/?width=250&height=250&color=ffffff&mobile_device_brand=samsung&mobile_device_model=Galaxy+s10+128gb&mobile_device_color=silver",
+            "description": "Tamaño 6.1''\nDensidad 550 ppi\nResolución de pantalla 1440 x 3040", 
+            "lastPrice" : 624760,
             "credit": true
         },
         {
             "id": 8,
-            "name": "Tomates",
-            "price":  900,
-            "image": "http://placeimg.com/640/480/tech",
-            "description": "Incididunt in ex magna tempor duis.", 
-            "lastPrice" : 250,
+            "name": "Nokia 2.3 32GB",
+            "price":  95760,
+            "image": "https://images.ctfassets.net/wcfotm6rrl7u/7BhaseqEIFMGpIi3jVzA6P/e9b5ed6e0896f9883ca0190e4a8ab697/1-default-Nokia_2_3-sand.png?fm=webp&q=65&w=1200",
+            "description": "Tamaño 6,2''\nDensidad 271 ppi\nResolución de pantalla 1520 x 720 pixeles", 
+            "lastPrice" : 99760,
             "credit": true
         },
         {
             "id": 9,
-            "name": "Lechugas",
-            "price":  1500,
-            "image": "http://placeimg.com/640/480/tech",
-            "description": "Occaecat quis ut amet sit ut est ut id ipsum.", 
-            "lastPrice" : 250,
+            "name": "Nokia 6.2 64GB",
+            "price": 179760,
+            "image": "https://images.ctfassets.net/wcfotm6rrl7u/63Z5h0GE5CFwHTn09dqJYY/261a87f838aeaef89a9749f5e0b9ab51/nokia_6_2-PUREDISPLAY_1-desktop.png",
+            "description": "Tamaño 6.3 ''\nDensidad 400 ppi\nResolución de pantalla 1080 x 2340 pixeles", 
+            "lastPrice" : 199760,
             "credit": true
         },
         {
             "id": 10,
-            "name": "Brocoli",
-            "price": 1800,
-            "image": "http://placeimg.com/640/480/tech",
+            "name": "LG Q6 32GB",
+            "price": 107760,
+            "image": "https://www.lg.com/us/images/cell-phones/md05902196/gallery/medium05.jpg",
             "description": "Magna aute tempor minim velit fugiat enim irure et magna do magna.", 
-            "lastPrice" : 250,
+            "lastPrice" : 117760,
             "credit": true
         }
     ]
