@@ -111,11 +111,12 @@
         {
             "id": 6,
             "name": "Motorola Moto E6S 32GB",
-            "price":  107760,
+            "price":  131760,
             "image": "https://blogmotorola.com/app/uploads/2020/03/E6s.jpg",
             "description": "Tamaño 6,1''\nDensidad 282 ppi\nResolución de pantalla 720 x 1560 pixeles", 
-            "lastPrice" : 250,
-            "credit": true
+            "lastPrice" : 250000,
+            "credit": true    
+     
         },
         {
             "id": 7,
@@ -149,7 +150,7 @@
             "name": "LG Q6 32GB",
             "price": 107760,
             "image": "https://www.lg.com/us/images/cell-phones/md05902196/gallery/medium05.jpg",
-            "description": "Magna aute tempor minim velit fugiat enim irure et magna do magna.", 
+            "description": "Pantalla FullVision FullHD de 13.97cm/5.5' en tamaño de 12.7cm/5", 
             "lastPrice" : 117760,
             "credit": true
         }
